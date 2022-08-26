@@ -1,0 +1,43 @@
+# doi: 
+title: Index Fungorum with Literature
+alias: Index Fungorum
+description: "The Index Fungorum (maintained by the Index Fungorum Partnership) is the global nomenclatural database for fungi (Fungi, chromistan fungi, protozoan fungi) and contains over 380,000 names at the rank of species and below. This dataset builds on Index Fungorum by adding persistent identifiers such as DOIs to the bibliographic references, where such identfiiers are known."
+released: 2022-08-26
+version: 0.0.1
+contact:
+  - given: Roderic
+    family: Page
+    city: Glasgow
+    country: United Kingdom
+    orcid: 0000-0002-7101-9767
+    email: Roderic.Page@glasgow.ac.uk
+    organisation: University of Glasgow
+    rorid: https://ror.org/00vtgdb53
+
+geographicScope: Global
+taxonomicScope: Fungi
+confidence: 3
+completeness: 0
+license: CC-BY
+source:
+
+  - id: https://doi.org/10.15468/ts7wsb
+    type: dataset
+    author: 
+      - Kirk, P.
+    title: Species Fungorum for CoL+
+    publisher: Royal Botanic Gardens
+    publisherPlace: Kew
+    issued: 2020
+    doi: 10.15468/ts7wsb
+    
+  - id: http://www.indexfungorum.org
+    type: dataset
+    author: 
+      - Kirk, P.
+    title: Index Fungorum
+    publisher: Royal Botanic Gardens
+    publisherPlace: Kew
+    issued: 2022
+    url: http://www.indexfungorum.org
+ 
