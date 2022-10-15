@@ -43,7 +43,7 @@ function do_query($sql)
 
 $key_mapping = array
 (
-'id' 					=> 'ID', // something unique to citations of same reference
+'referenceID' 			=> 'ID', // something unique to citations of same reference
 
 //'publishedin'			=> 'citation', // this will vary amoung individual names
 
@@ -71,7 +71,7 @@ echo join("\t", $headings) . "\n";
 
 
 // get distinct ids
-$sql = 'SELECT DISTINCT doi FROM names WHERE doi IS NOT NULL 
+$sql = 'SELECT DISTINCT referenceID FROM names WHERE referenceID IS NOT NULL 
 AND genuspart IN ("Elaphocordyceps", "Tolypocladium")';
 
 $ids = array();
@@ -79,20 +79,20 @@ $ids = array();
 $data = do_query($sql);
 foreach ($data as $obj)
 {
-	$ids[] = $obj->doi;
+	$ids[] = $obj->referenceID;
 }
 
 // get each reference in turn
-foreach ($ids as $doi)
+foreach ($ids as $referenceID)
 {
-	$sql = 'SELECT * FROM names WHERE doi="' . $doi . '" LIMIT 1';
+	$sql = 'SELECT * FROM names WHERE referenceID="' . $referenceID . '" LIMIT 1';
   	$data = do_query($sql);
   	
   	// print_r($data);
   	
 	foreach ($data as $obj)
 	{
-		// print_r($obj);
+		//print_r($obj);
 				
 		$output = new stdclass;
 		
@@ -101,12 +101,9 @@ foreach ($ids as $doi)
 			if (isset($key_mapping[$k]))
 			{
 				switch ($k)
-				{			
-					case 'doi':
-						$output->{$key_mapping[$k]} = $v;
-
-						// IPNI CoLDP hack
-						$output->ID = md5($v);
+				{								
+					case 'referenceID':
+						$output->ID = md5($v); // so we don't cause issues with Checklistbank web interface
 						break;					
 						
 					case 'basionymauthorship':

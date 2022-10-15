@@ -1,4 +1,8 @@
 
 .DS_Store
 
+/code/*.sql
+
 /data/
+
+*.zip

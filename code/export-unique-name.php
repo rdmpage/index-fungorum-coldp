@@ -64,10 +64,11 @@ $name_key_mapping = array
 'year'					=> 'publishedInYear',
 'pages'					=> 'publishedInPage',
 
+'referenceID'			=> 'referenceID',
+
 );
 
 $name_headings = array_values($name_key_mapping);
-$name_headings[] = 'referenceID';
 $name_headings[] = 'link';
 
 echo join("\t", $name_headings) . "\n";
@@ -104,18 +105,10 @@ while (!$done)
 
 						// mimic Species Fungorum for CoL+
 						$output->link = 'http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=' . $v;
-
-						/*
-						// mimic Species Fungorum for CoL+ and reuse name id 
-						$output->referenceID = $v;
-						*/
-
-						// mimic IPNI for CoL+ and use DOI as proxy of reference id
-						if (isset($obj->doi))
-						{
-							$output->referenceID = md5($obj->doi);
-						}
-
+						break;
+						
+					case 'referenceID':
+						$output->{$name_key_mapping[$k]} = md5($v);
 						break;
 
 					default:
