@@ -62,19 +62,19 @@ function get($url)
 
 //$sql = 'SELECT * FROM names WHERE id=17814';
 
-$sql = 'SELECT * FROM names WHERE issn="1609-2465"';
+$sql = 'SELECT * FROM names WHERE issn="0007-2745"';
 
 
 $sql .= ' AND volume IS NOT NULL';
 $sql .= ' AND pages IS NOT NULL ';
-//$sql .= ' AND doi is NULL';
+$sql .= ' AND doi is NULL';
 //$sql .= ' AND jstor is NULL';
 
 $include_authors = true; // more accuracy
 $include_authors = false;
 
 $include_issue= true;
-//$include_issue = false;
+$include_issue = false;
 
 
 $query_result = do_query($sql);

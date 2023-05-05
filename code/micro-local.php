@@ -86,15 +86,32 @@ $sql = 'SELECT * FROM names WHERE id=817479';
 
 //$sql = 'SELECT * FROM names WHERE issn="2346-9641" and volume=51';
 
-$sql = 'SELECT * FROM names WHERE issn="0018-0971"';
+$sql = 'SELECT * FROM names WHERE issn="0236-6495"';
+$sql = 'SELECT * FROM names WHERE issn="0170-110X"';
+$sql = 'SELECT * FROM names WHERE issn="2077-7019"';
+$sql = 'SELECT * FROM names WHERE issn="0093-4666"';
+$sql = 'SELECT * FROM names WHERE issn="1314-4049"';
+$sql = 'SELECT * FROM names WHERE issn="2544-7459"';
+//$sql = 'SELECT * FROM names WHERE issn="2657-5000"';
 
-$sql .= ' AND year =2015';
+$sql = 'SELECT * FROM names WHERE issn="0511-9618"';
+$sql = 'SELECT * FROM names WHERE issn="1672-6472"';
+
+//$sql = "SELECT * FROM names WHERE issn IN ('0181-1584','1314-4049','2309-608X','0003-6072','1179-3155','0166-0616') AND year='2021'";
+
+$sql = 'SELECT * FROM names WHERE issn="1436-2317"';
+$sql = 'SELECT * FROM names WHERE issn="1617-416X"';
+$sql = 'SELECT * FROM names WHERE issn="2210-6340"';
+
+
+//$sql .= ' AND year = 2021';
 
 $sql .= ' AND volume IS NOT NULL';
 $sql .= ' AND pages IS NOT NULL ';
-$sql .= ' AND doi is NULL';
-$sql .= ' AND wikidata is NULL';
+$sql .= ' AND doi is NULL;'
+//$sql .= ' AND wikidata is NULL';
 //$sql .= ' AND jstor is NULL';
+//$sql .= ' AND url is NULL';
 
 $debug = true;
 $debug = false;
@@ -114,11 +131,31 @@ foreach ($query_result as $data)
 	$doc->id = $data->id;
 	
 	$doc->{'container-title'} = $data->title;
-	
-	
+		
 	if (isset($data->issn))
 	{
 		$doc->ISSN[] = $data->issn;
+		
+		// Phytotaxa
+		if ($data->issn == '1179-3155')
+		{
+			$doc->ISSN[0] = '1179-3163';
+		}
+
+		if ($data->issn == '1436-2317')
+		{
+			$doc->ISSN[0] = '2195-9889';
+		}
+
+		if ($data->issn == '2210-6340')
+		{
+			$doc->ISSN[0] = '2210-6359';
+		}
+		
+		
+		
+		
+		
 	}
 	
 	$doc->volume = $data->volume;
@@ -204,12 +241,12 @@ foreach ($query_result as $data)
 		echo 'UPDATE names SET wikidata = "' . $doc->WIKIDATA[0] . '" WHERE id="' . $data->id . '";' . "\n";
 	}
 
-	/*
+	
 	if ($doc && isset($doc->URL) && count($doc->URL) == 1)
 	{
 		echo 'UPDATE names SET url = "' . $doc->URL[0] . '" WHERE id="' . $data->id . '";' . "\n";
 	}
-	*/
+	
 
 	
 }
