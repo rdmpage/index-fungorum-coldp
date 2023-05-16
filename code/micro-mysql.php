@@ -62,12 +62,12 @@ function get($url)
 
 //$sql = 'SELECT * FROM names WHERE id=17814';
 
-$sql = 'SELECT * FROM names WHERE issn="0007-2745"';
+$sql = 'SELECT * FROM names WHERE issn="0082-0598"';
 
 
 $sql .= ' AND volume IS NOT NULL';
 $sql .= ' AND pages IS NOT NULL ';
-$sql .= ' AND doi is NULL';
+$sql .= ' AND url is NULL';
 //$sql .= ' AND jstor is NULL';
 
 $include_authors = true; // more accuracy

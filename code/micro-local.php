@@ -103,12 +103,19 @@ $sql = 'SELECT * FROM names WHERE issn="1436-2317"';
 $sql = 'SELECT * FROM names WHERE issn="1617-416X"';
 $sql = 'SELECT * FROM names WHERE issn="2210-6340"';
 
+$sql = 'SELECT * FROM names WHERE issn="0453-3402"';
+
+$sql = 'SELECT * FROM names WHERE issn="1560-3695"';
+
+$sql = 'SELECT * FROM names WHERE issn="0031-5850"';
+
+//$sql = 'SELECT * FROM names WHERE id=289222';
 
 //$sql .= ' AND year = 2021';
 
 $sql .= ' AND volume IS NOT NULL';
 $sql .= ' AND pages IS NOT NULL ';
-$sql .= ' AND doi is NULL;'
+$sql .= ' AND doi is NULL';
 //$sql .= ' AND wikidata is NULL';
 //$sql .= ' AND jstor is NULL';
 //$sql .= ' AND url is NULL';
@@ -150,6 +157,12 @@ foreach ($query_result as $data)
 		if ($data->issn == '2210-6340')
 		{
 			$doc->ISSN[0] = '2210-6359';
+		}
+		
+		
+		if ($data->issn == '1560-3695')
+		{
+			$doc->ISSN[0] = '1013-2732';
 		}
 		
 		

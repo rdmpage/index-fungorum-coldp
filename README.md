@@ -6,8 +6,37 @@ A version of [Index Fungorum](http://www.indexfungorum.org) with persistent iden
 
 ### Exports and releases
 
-The data to add to ChecklistBank are held in the views `names_with_references` and `references` in the SQLIte database. These views, together with the `metadata.yml` file comprise a release. Releases are versioned by date.
+The data to add to ChecklistBank are held in the views `names_with_references` and `references` in the SQLIte database. These views should be exported as `names.tsv` and `references.tsv` respectively (in tab-delimited format), and together with the `metadata.yml` file comprise a release. Releases are versioned by date, and automatically get assigned a DOI via Zenodo. 
 
+Note that the release should only include ColDP files so anything else should not be in the release. Add any unwanted files to a file called `.gitattributes`:
+
+```
+/code export-ignore
+/junk export-ignore
+
+*.db export-ignore
+*.bbprojectd export-ignore
+*.md export-ignore
+
+*.gitattributes export-ignore
+*.gitignore export-ignore
+
+if.db filter=lfs diff=lfs merge=lfs -text
+```
+
+### Data needed for ChecklistBank
+
+We need to include a formatted citation for uploading to ChecklistBank, we try to get these form local databases, as a last resource try and get from Wikidata or content negotiation from DOI.
+
+### Adding to ChecklistBank
+
+For now this process is not automated, so we need to manually upload the three files (names.tsv`, `references.tsv`, and `metadata.yml`) to ChecklistBank.
+
+### Triple store
+
+```
+curl 'http://localhost:7878/store?graph=http://www.indexfungorum.org' -H 'Content-Type:application/n-triples' --data-binary '@triples.nt'  --progress-bar
+```
 
 ## Issues
 

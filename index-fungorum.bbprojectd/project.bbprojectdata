@@ -8,6 +8,7 @@
 		<string>60AF57F2-086A-49AF-8929-44C8BB8AE8E1</string>
 		<string>33CBD208-F0FE-4CC1-856A-2C23A215E3E4</string>
 		<string>DCECE85E-4F8E-4A38-B614-A04A90A5F197</string>
+		<string>41C8909C-6325-4878-AFED-323C5224B3EF</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -54,6 +55,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>README.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>41C8909C-6325-4878-AFED-323C5224B3EF</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/QCAAAAAAQQMAAAAPhoENNED29FvnRZy+CJYg6s
+				qz8aLgKgYxL2lBfgMSA58AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAACwAA
+				AAEBAABEZXZlbG9wbWVudAAUAAAAAQEAAGluZGV4LWZ1
+				bmdvcnVtLWNvbGRwDQAAAAEBAABjb21wb3Nlci5qc29u
+				AAAAFAAAAAEGAAAQAAAAIAAAADAAAABEAAAAYAAAAAgA
+				AAAEAwAAhFwAAAAAAAAIAAAABAMAAJbGAwAAAAAACAAA
+				AAQDAABZKSUAAAAAAAgAAAAEAwAAuRDpAAAAAAAIAAAA
+				BAMAACBYmQQAAAAAFAAAAAEGAACUAAAApAAAALQAAADE
+				AAAA1AAAAAgAAAAABAAAQcUHOzxZMfMYAAAAAQIAAAEA
+				AAAAAAAADwAAAAAAAAAAAAAAAAAAAAgAAAAEAwAAAwAA
+				AAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkAAGZpbGU6Ly8v
+				DAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAACQgpbn
+				AAAACAAAAAAEAABBxH9qooAAACQAAAABAQAARUVEQkM0
+				OTUtREY1Mi00NTZBLUI0MzEtRkI2MDdCRjA0QUQxGAAA
+				AAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAA
+				AQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQ
+				AAAABBAAAHgAAAAAAAAABRAAAOQAAAAAAAAAEBAAABAB
+				AAAAAAAAQBAAAAABAAAAAAAAAiAAANwBAAAAAAAABSAA
+				AEwBAAAAAAAAECAAAFwBAAAAAAAAESAAAJABAAAAAAAA
+				EiAAAHABAAAAAAAAEyAAAIABAAAAAAAAICAAALwBAAAA
+				AAAAMCAAAOgBAAAAAAAAAcAAADABAAAAAAAAEcAAACAA
+				AAAAAAAAEsAAAEABAAAAAAAAENAAAAQAAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Development/index-fungorum-coldp/composer.json</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./composer.json</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>composer.json</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
 			<key>UserOverrideItemName</key>

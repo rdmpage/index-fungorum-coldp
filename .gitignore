@@ -4,9 +4,11 @@
 /code/*.sql
 
 /data/
+/junk/
+/vendor/
 
 *.zip
 
 /c03f5bd7-025d-41fb-b9ac-e59d3f55a41e
 /dataset-2073
-/junk
+
