@@ -30,9 +30,11 @@ We need to include a formatted citation for uploading to ChecklistBank, we try t
 
 ### Adding to ChecklistBank
 
-For now this process is not automated, so we need to manually upload the three files (names.tsv`, `references.tsv`, and `metadata.yml`) to ChecklistBank.
+For now this process is not automated, so we need to do this manually. Zip `names.tsv` and `references.tsv` together and upload to ChecklistBank. If you change `metadata.yml`, then upload that file directly to ChecklistBank.
 
 ### Triple store
+
+Create triples using `export-triples.php` which generates triples creating taxon name and linking to publication. Can upload to local Oxigraph for testing and exploration. 
 
 ```
 curl 'http://localhost:7878/store?graph=http://www.indexfungorum.org' -H 'Content-Type:application/n-triples' --data-binary '@triples.nt'  --progress-bar

@@ -2,8 +2,8 @@ doi: 10.5281/zenodo.7211134
 title: Index Fungorum with Literature
 alias: Index Fungorum
 description: "The Index Fungorum (maintained by the Index Fungorum Partnership) is the global nomenclatural database for fungi (Fungi, chromistan fungi, protozoan fungi) and contains over 380,000 names at the rank of species and below.\nThis dataset builds on Index Fungorum by adding persistent identifiers such as DOIs to the bibliographic references, where such identifiers are known. \nThe original Index Fungorum database is CC-BY, this mapping between names, publications and DOIs is CC-0."
-released: 2022-10-15
-version: 2022-10-15
+released: 2023-05-26
+version: 2023-05-26
 contact:
   - given: Roderic
     family: Page

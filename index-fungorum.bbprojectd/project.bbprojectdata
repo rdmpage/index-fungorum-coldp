@@ -5,9 +5,9 @@
 	<key>HierarchyData</key>
 	<array>
 		<string>6DC4BB06-354F-4D8F-8CD7-E766ED787A68</string>
+		<string>D7BDC1E5-FDA8-4A5B-BBEC-DEA59B7E4D8A</string>
 		<string>60AF57F2-086A-49AF-8929-44C8BB8AE8E1</string>
 		<string>33CBD208-F0FE-4CC1-856A-2C23A215E3E4</string>
-		<string>DCECE85E-4F8E-4A38-B614-A04A90A5F197</string>
 		<string>41C8909C-6325-4878-AFED-323C5224B3EF</string>
 	</array>
 	<key>ProjectItems</key>
@@ -206,7 +206,7 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
-		<key>DCECE85E-4F8E-4A38-B614-A04A90A5F197</key>
+		<key>D7BDC1E5-FDA8-4A5B-BBEC-DEA59B7E4D8A</key>
 		<dict>
 			<key>ItemData</key>
 			<dict>
