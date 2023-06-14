@@ -79,6 +79,7 @@ while (!$done)
 		
 		$triples[] = $triple;
 		
+		// basedOn		
 		if (isset($obj->doi))
 		{
 			$doi = $obj->doi;
@@ -107,15 +108,6 @@ while (!$done)
 				$triples[] = $triple;			
 			}
 		}
-		
-		
-		// name
-		
-		// basedOn
-		
-		// sameAs
-		
-		//print_r($triples);
 		
 		foreach ($triples as $triple)
 		{
