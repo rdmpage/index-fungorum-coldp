@@ -4,6 +4,8 @@
 
 A version of [Index Fungorum](http://www.indexfungorum.org) with persistent identifiers (e.g., DOIs) for literature added. Original data harvested via Index Fungorum API. Persistent identifiers added based on my earlier work [indexfungorum-publications](https://github.com/rdmpage/indexfungorum-publications).
 
+Errors found in the original Index Fungorum are saved in the `errors` directory.
+
 ### Exports and releases
 
 The data to add to ChecklistBank are held in the views `names_with_references` and `references` in the SQLIte database. These views should be exported as `names.tsv` and `references.tsv` respectively (in tab-delimited format), and together with the `metadata.yml` file comprise a release. Releases are versioned by date, and automatically get assigned a DOI via Zenodo. 
@@ -76,6 +78,5 @@ WHERE id = old.id;
 
 END;
 ```
-
 
 

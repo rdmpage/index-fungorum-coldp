@@ -1,0 +1,248 @@
+id	namecomplete	authorship	publishedin	identifier	title	volume	number	pages	year	doi	rdmpcomment
+103717	Podospora carpinicola	Mouch.	Persoonia 13(1): 107 (1986)	18	Persoonia	13	1	107	1986		IF has page 197 which is a typo for 107
+169489	Uncinula polychaeta	(Berk. & M.A. Curtis) Tracy & L.D. Galloway	Bot. Gaz. 4(2-3): 29 (1888)	2899	Bot. Gaz.	13	2-3	29	1888	10.1086/326224	Wrong volume, correct in IF
+169653	Tilletia elymi	Dietel & Holw.	Bot. Gaz.: 305 (1894)	2899	Bot. Gaz.	19	8	305	1894	10.1086/327074	No volume, correct in IF
+174670	Doassansia epilobii	Farl.	Bot. Gaz.: 277 (1883)	2899	Bot. Gaz.	8		277	1883	10.1086/325719	No volume, correct in IF
+183558	Craterellus taxophilus	Thom	Bot. Gaz.: 3 (1904)	2899	Bot. Gaz.	37	3	218	1904	10.1086/328467	No volume, wrong page, correct in IF
+210805	Gonapodya polymorpha	Thaxt.	Bot. Gaz.: 481 (1895)	2899	Bot. Gaz.	20		481	1895	10.1086/327262	No volume, correct in IF
+212418	Uromyces rubi	Dietel & Holw.	Bot. Gaz.: 327 (1901)	2899	Bot. Gaz.	31		327	1901	10.1086/328108	No volume, correct in IF
+282475	Pestalotiopsis fici	Steyaert	Bull. Jard. bot. État Brux. 14: 324 (1949)	3101	Bull. Jard. bot. État Brux.	19		324	1949	10.2307/3666710	Wrong volume, should be 19
+289185	Pestalotiopsis annulata	(Berk. & M.A. Curtis) Steyaert	Bull. Jard. bot. État Brux. 14: 316 (1949)	3101	Bull. Jard. bot. État Brux.	19		316	1949	10.2307/3666710	Wrong volume, should be 19
+289187	Pestalotiopsis baarnensis	Steyaert	Bull. Jard. bot. État Brux. 14: 342 (1949)	3101	Bull. Jard. bot. État Brux.	19		342	1949	10.2307/3666710	Wrong volume, should be 19
+289189	Pestalotiopsis calabae	(Westend.) Steyaert	Bull. Jard. bot. État Brux. 14: 308 (1949)	3101	Bull. Jard. bot. État Brux.	19		308	1949	10.2307/3666710	Wrong volume, should be 19
+289190	Pestalotiopsis carbonacea	(Steyaert) Steyaert	Bull. Jard. bot. État Brux. 14: 335 (1949)	3101	Bull. Jard. bot. État Brux.	19		335	1949	10.2307/3666710	Wrong volume, should be 19
+289192	Pestalotiopsis crassiuscula	Steyaert	Bull. Jard. bot. État Brux. 14(3): 338 (1949)	3101	Bull. Jard. bot. État Brux.	19	3	338	1949	10.2307/3666710	Wrong volume, should be 19
+289196	Pestalotiopsis foedans	(Sacc. & Ellis) Steyaert	Bull. Jard. bot. État Brux. 14: 329 (1949)	3101	Bull. Jard. bot. État Brux.	19		329	1949	10.2307/3666710	Wrong volume, should be 19
+289198	Pestalotiopsis gallica	Steyaert	Bull. Jard. bot. État Brux. 14: 308 (1949)	3101	Bull. Jard. bot. État Brux.	19		308	1949	10.2307/3666710	Wrong volume, should be 19
+289200	Pestalotiopsis gracilis	(Kleb.) Steyaert	Bull. Jard. bot. État Brux. 14: 310 (1949)	3101	Bull. Jard. bot. État Brux.	19		310	1949	10.2307/3666710	Wrong volume, should be 19
+289202	Pestalotiopsis hypodermia	(Niessl) Steyaert	Bull. Jard. bot. État Brux. 14: 328 (1949)	3101	Bull. Jard. bot. État Brux.	19		328	1949	10.2307/3666710	Wrong volume, should be 19
+289204	Pestalotiopsis japonica	(Syd.) Steyaert	Bull. Jard. bot. État Brux. 14: 335 (1949)	3101	Bull. Jard. bot. État Brux.	19		335	1949	10.2307/3666710	Wrong volume, should be 19
+289205	Pestalotiopsis karstenii	(Sacc. & P. Syd.) Steyaert	Bull. Jard. bot. État Brux. 14: 305 (1949)	3101	Bull. Jard. bot. État Brux.	19		305	1949	10.2307/3666710	Wrong volume, should be 19
+289207	Pestalotiopsis macrospora	(Ces.) Steyaert	Bull. Jard. bot. État Brux. 14: 344 (1949)	3101	Bull. Jard. bot. État Brux.	19		344	1949	10.2307/3666710	Wrong volume, should be 19
+289212	Pestalotiopsis natalensis	(J.F.H. Beyma) Steyaert	Bull. Jard. bot. État Brux. 14: 344 (1949)	3101	Bull. Jard. bot. État Brux.	19		344	1949	10.2307/3666710	Wrong volume, should be 19
+289213	Pestalotiopsis oxyanthi	(Thüm.) Steyaert	Bull. Jard. bot. État Brux. 14: 329 (1949)	3101	Bull. Jard. bot. État Brux.	19		329	1949	10.2307/3666710	Wrong volume, should be 19
+289214	Pestalotiopsis paeoniae	(Servazzi) Steyaert	Bull. Jard. bot. État Brux. 14: 312 (1949)	3101	Bull. Jard. bot. État Brux.	19		312	1949	10.2307/3666710	Wrong volume, should be 19
+289216	Pestalotiopsis papposa	Steyaert	Bull. Jard. bot. État Brux. 14: 325 (1949)	3101	Bull. Jard. bot. État Brux.	19		325	1949	10.2307/3666710	Wrong volume, should be 19
+289222	Pestalotiopsis triseta	(Moreau & V. Moreau) Steyaert	Bull. Jard. bot. État Brux. 14: 337 (1949)	3101	Bull. Jard. bot. État Brux.	19		337	1949	10.2307/3666710	Wrong volume, should be 19
+289224	Pestalotiopsis virgatula	(Kleb.) Steyaert	Bull. Jard. bot. État Brux. 14: 336 (1949)	3101	Bull. Jard. bot. État Brux.	19		336	1949	10.2307/3666710	Wrong volume, should be 19
+292138	Actinopeltis philodendri	Bat.	Acta Bot. Brasilica: 114 (1953)	5185	Acta Bot. Brasilica			114	1953		NOT Acta Bot. Brasilica
+293333	Asterina cupaniae	Bat.	Acta Bot. Brasilica: 162 (1953)	5185	Acta Bot. Brasilica			162	1953		NOT Acta Bot. Brasilica
+293366	Asterina lafoensiae	Bat. & Gayão	Acta Bot. Brasilica: 166 (1953)	5185	Acta Bot. Brasilica			166	1953		NOT Acta Bot. Brasilica
+293371	Asterina lucida	Bat.	Acta Bot. Brasilica: 168 (1953)	5185	Acta Bot. Brasilica			168	1953		NOT Acta Bot. Brasilica
+293385	Asterina perae	Bat.	Acta Bot. Brasilica: 169 (1953)	5185	Acta Bot. Brasilica			169	1953		NOT Acta Bot. Brasilica
+293608	Balladynastrum anacardii	Bat. & A.F. Vital	Acta Bot. Brasilica: 88 (1953)	5185	Acta Bot. Brasilica			88	1953		NOT Acta Bot. Brasilica
+293873	Bulgariastrum cordiae	Bat.	Acta Bot. Brasilica: 75 (1953)	5185	Acta Bot. Brasilica			75	1953		NOT Acta Bot. Brasilica
+293947	Calothyriopeltis annonae	Bat. & Gayão	Acta Bot. Brasilica: 151 (1953)	5185	Acta Bot. Brasilica			151	1953		NOT Acta Bot. Brasilica
+294761	Chaetothyrium tapirirae	Bat.	Acta Bot. Brasilica: 76 (1953)	5185	Acta Bot. Brasilica			76	1953		NOT Acta Bot. Brasilica
+296761	Dimeriellopsis cocoicola	Bat. & A.F. Vital	Acta Bot. Brasilica: 91 (1953)	5185	Acta Bot. Brasilica			91	1953		NOT Acta Bot. Brasilica
+296841	Diplodina ignota	Bat.	Acta Bot. Brasilica: 77 (1953)	5185	Acta Bot. Brasilica			77	1953		NOT Acta Bot. Brasilica
+297073	Echidnodes myrtaceicola	Bat. & Gayão	Acta Bot. Brasilica: 153 (1953)	5185	Acta Bot. Brasilica			153	1953		NOT Acta Bot. Brasilica
+299039	Irenina cassiicola	Bat. & J. Silva	Acta Bot. Brasilica: 91 (1953)	5185	Acta Bot. Brasilica			91	1953		NOT Acta Bot. Brasilica
+299052	Irenina protiicola	Bat. & Gayão	Acta Bot. Brasilica: 94 (1953)	5185	Acta Bot. Brasilica			94	1953		NOT Acta Bot. Brasilica
+299054	Irenina tabebuiae	Bat. & J. Silva	Acta Bot. Brasilica: 96 (1953)	5185	Acta Bot. Brasilica			96	1953		NOT Acta Bot. Brasilica
+299408	Lembosia clusiae	Bat. & A.F. Vital	Acta Bot. Brasilica: 172 (1953)	5185	Acta Bot. Brasilica			172	1953		NOT Acta Bot. Brasilica
+299409	Lembosia coccolobicola	Bat. & Gayão	Acta Bot. Brasilica: 173 (1953)	5185	Acta Bot. Brasilica			173	1953		NOT Acta Bot. Brasilica
+299410	Lembosia cordiarum	Bat.	Acta Bot. Brasilica: 174 (1953)	5185	Acta Bot. Brasilica			174	1953		NOT Acta Bot. Brasilica
+299679	Leptothyrium discretum	Bat.	Acta Bot. Brasilica: 135 (1953)	5185	Acta Bot. Brasilica			135	1953		NOT Acta Bot. Brasilica
+299858	Lopadiopsis lichenicola	Bat.	Acta Bot. Brasilica 13: 120 (1953)	5185	Acta Bot. Brasilica	13		120	1953		NOT Acta Bot. Brasilica
+300815	Meliola soroceana	Bat.	Acta Bot. Brasilica: 112 (1953)	5185	Acta Bot. Brasilica			112	1953		NOT Acta Bot. Brasilica
+300898	Melophia cinnamomi	Bat. & A.F. Vital	Acta Bot. Brasilica: 135 (1953)	5185	Acta Bot. Brasilica			135	1953		NOT Acta Bot. Brasilica
+300899	Melophia protii	Bat.	Acta Bot. Brasilica: 136 (1953)	5185	Acta Bot. Brasilica			136	1953		NOT Acta Bot. Brasilica
+301318	Morenoina byrsonimae	Bat.	Acta Bot. Brasilica: 154 (1953)	5185	Acta Bot. Brasilica			154	1953		NOT Acta Bot. Brasilica
+301643	Muyocopron cassiicola	Bat. & Gayão	Acta Bot. Brasilica: 155 (1953)	5185	Acta Bot. Brasilica			155	1953		NOT Acta Bot. Brasilica
+302736	Phaeopeltis cyperi	Bat.	Acta Bot. Brasilica: 80 (1953)	5185	Acta Bot. Brasilica			80	1953		NOT Acta Bot. Brasilica
+303258	Phragmothyrium confusum	Bat.	Acta Bot. Brasilica: 156 (1953)	5185	Acta Bot. Brasilica			156	1953		NOT Acta Bot. Brasilica
+303750	Placosphaeria guajavae	Bat.	Acta Bot. Brasilica: 82 (1953)	5185	Acta Bot. Brasilica			82	1953		NOT Acta Bot. Brasilica
+304845	Pycnopeltis circinata	Bat.	Acta Bot. Brasilica: 157 (1952)	5185	Acta Bot. Brasilica			157	1952		NOT Acta Bot. Brasilica
+305829	Septoria ceibae	Bat.	Acta Bot. Brasilica: 139 (1953)	5185	Acta Bot. Brasilica			139	1953		NOT Acta Bot. Brasilica
+306188	Sphaerognomonia mangiferae	Bat.	Acta Bot. Brasilica: 141 (1953)	5185	Acta Bot. Brasilica			141	1953		NOT Acta Bot. Brasilica
+306469	Stigmatea byrsonimae	Bat. & Gayão	Acta Bot. Brasilica: 138 (1953)	5185	Acta Bot. Brasilica			138	1953		NOT Acta Bot. Brasilica
+308041	Zythia psidii	Bat.	Acta Bot. Brasilica: 83 (1953)	5185	Acta Bot. Brasilica			83	1953		NOT Acta Bot. Brasilica
+316324	Lamproderma alexopouli	T.N. Lakh. & Mukerji	Karstenia 6: 9 (1979) [1978]	54	Karstenia	6		9	1978		Wrong journal, should be Kavaka, correct in IF
+316325	Lamproderma collinsii	T.N. Lakh. & Mukerji	Karstenia 6: 10 (1979)	54	Karstenia	6		10	1979		Wrong journal, should be Kavaka, correct in IF
+316330	Lamproderma thindianum	T.N. Lakh. & Mukerji	Karstenia 6: 12 (1979) [1978]	54	Karstenia	6		12	1978		Wrong journal, should be Kavaka, correct in IF
+344177	Meliola serjaniicola	Bat. & A.F. Vital	Acta Bot. Brasilica: 110 (1953)	5185	Acta Bot. Brasilica			110	1953		NOT Acta Bot. Brasilica
+344215	Pezolepis buchenaviicola	Bat. & A.F. Vital	Acta Bot. Brasilica: 139 (1953)	5185	Acta Bot. Brasilica			139	1953		NOT Acta Bot. Brasilica
+344280	Sphaerognomonia syzygii	Bat.	Acta Bot. Brasilica: 141 (1953)	5185	Acta Bot. Brasilica			141	1953		NOT Acta Bot. Brasilica
+346137	Fusarium oxysporum f. nicotianae	(J. Johnson) W.C. Snyder & H.N. Hansen	Am. J. Bot.: 676 (1971)	2874	Am. J. Bot.			676	1971	10.2307/2436688	The Species Concept in Fusarium W. C. Snyder and H. N. Hansen American Journal of Botany Vol. 27, No. 2 (Feb., 1940), pp. 64-67  Date and metadata for IF record is wrong
+375106	Geastrum florissantensis	Cockerell	Am. J. Bot. 26: 538 (1908)	2874	Am. J. Bot.	26		538	1908	see comment	Actually 10.2475/ajs.s4-26.156.537 T. D. A. Cockerell Descriptions of Tertiary plants Am J Sci December 1, 1908 Series 4 Vol. 26:537-544;
+377340	Passalora lonicerigena	Y.L. Guo	Fungal Science, Taipei 17(1, 2): 28 (2002)	5857	Fungal Science, Taipei	17	1, 2	28	2002		Missed by Airiti
+377370	Passalora papayae	(Y.L. Guo) Y.L. Guo	Fungal Science, Taipei 17(1, 2): 28 (2002)	5857	Fungal Science, Taipei	17	1, 2	28	2002		Missed by Airiti
+377384	Passalora sauropodis	(P.K. Chi & S.Q. Chen) Y.L. Guo	Fungal Science, Taipei 17(1, 2): 28 (2002)	5857	Fungal Science, Taipei	17	1, 2	28	2002		Missed by Airiti
+428918	Monoblepharis insignis var. insignis	Thaxt.	Bot. Gaz.: 438 (1895)	2899	Bot. Gaz.	20		438	1895	10.1086/327247	No volume, correct in IF
+429675	Pestalotiopsis karstenii var. karstenii	(Sacc. & P. Syd.) Steyaert	Bull. Jard. bot. État Brux. 14: 305 (1949)	3101	Bull. Jard. bot. État Brux.	19		305	1949	10.2307/3666710	Wrong volume, should be 19
+440828	Asterina davillae var. major	Bat. & A.F. Vital	Acta Bot. Brasilica: 164 (1953)	5185	Acta Bot. Brasilica			164	1953		NOT Acta Bot. Brasilica
+459674	Placopyrenium noxium	Breuss	N.Z. Jl Bot. 100: 675 (1998)	60	N.Z. Jl Bot.	100		675	1998		This is an error, should be Breuss, O. (1998) On the taxonomy of Catapyrenium plumbeum (lichenized Ascomycetes, Verrucariaceae). - Annalen des Naturhistorischen Museums in Wien 100B: 671–676 see https://species.wikimedia.org/wiki/Placopyrenium_noxium
+465087	Pseudocercospora ghissambilae	U. Braun & Crous	Mycoses 1: 480 (2003)	2852	Mycoses	1		480	2003		Pseudocercospora ghissambilae U. Braun & Crous, CBS Biodiversity Series 1: 480 (2003) [MB#465087]
+466041	Passalora atrides	(Syd. & P. Syd.) Y.L. Guo	Fungal Science, Taipei 17(1, 2): 27 (2002)	5857	Fungal Science, Taipei	17	1, 2	27	2002		Missed by Airiti
+466317	Colacogloea papilionacea	R. Kirschner & Oberw.	Sydowia 91(1): 198 (1999)	4	Sydowia	91	1	198	1999		Wrong volume, 52, correct in IF
+466318	Agaricus azoetes	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 214 (1999)	4	Sydowia	91	1	214	1999		Wrong volume, 52, correct in IF
+466319	Agaricus entibigae	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 224 (1999)	4	Sydowia	91	1	224	1999		Wrong volume, 52, correct in IF
+466320	Agaricus kai	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 227 (1999)	4	Sydowia	91	1	227	1999		Wrong volume, 52, correct in IF
+466321	Agaricus kiawetes	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 230 (1999)	4	Sydowia	91	1	230	1999		Wrong volume, 52, correct in IF
+466322	Agaricus kipukae	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 230 (1999)	4	Sydowia	91	1	230	1999		Wrong volume, 52, correct in IF
+466323	Agaricus lanatorubescens	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 235 (1999)	4	Sydowia	91	1	235	1999		Wrong volume, 52, correct in IF
+466324	Agaricus nigrobrunnescens	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 238 (1999)	4	Sydowia	91	1	238	1999		Wrong volume, 52, correct in IF
+466325	Agaricus rotalis	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 244 (1999)	4	Sydowia	91	1	244	1999		Wrong volume, 52, correct in IF
+466326	Agaricus xeretes	K.R. Peterson, Desjardin & Hemmes	Sydowia 91(1): 252 (1999)	4	Sydowia	91	1	252	1999		Wrong volume, 52, correct in IF
+467811	Tyromyces sublacunosus	(Corner) T. Hatt.	Mycoscience 72(1): 21 (1999)	5294	Mycoscience	72	1	21	1999	10.1007/BF02463971	Volume 42
+467812	Abortiporus zonatus	(Corner) T. Hatt.	Mycoscience 72(1): 23 (1999)	5294	Mycoscience	72	1	23	1999	10.1007/BF02463971	Volume 42
+467814	Alternaria petasitis	M. Kubota, Kishi & Abiko	Mycoscience 72(1): 32 (1999)	5294	Mycoscience	72	1	32	1999	10.1007/BF02463972	Volume 42
+467815	Halophytophthora porrigovesica	Nakagiri, Tad. Ito, Manoch & Tantich.	Mycoscience 72(1): 34 (1999)	5294	Mycoscience	72	1	34	1999	10.1007/BF02463973	Volume 42
+467817	Neosartorya takakii	Y. Horie, Abliz & K. Fukush.	Mycoscience 103(1): 91 (1999)	5294	Mycoscience	103	1	91	1999	10.1007/BF02463980	Volume 42
+467818	Aspergillus takakii	Y. Horie, Abliz & K. Fukush.	Mycoscience 103(1): 91 (1999)	5294	Mycoscience	103	1	91	1999	10.1007/BF02463980	Volume 42
+467819	Lanceispora phyllophila	V.V. Sarma & K.D. Hyde	Mycoscience 103(1): 97 (1999)	5294	Mycoscience	103	1	97	1999	10.1007/BF02463981	Volume 42
+533372	Lichen pallescens	Neck.			Acta Soc. Bot. Pol.			503	1768		Clearly an error! cf. http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=459111&Fields=All
+534717	Pestalotiopsis westerdykiae	Steyaert			Bull. Jard. bot. État Brux.	19		329	1949	10.2307/3666710	Wrong volume, should be 19
+541643	Catenolaria	G.Y. Sun & H.Y. Li			Fungal Science, Taipei	24		244	2009		Not online but see https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A11031925
+542230	Catenolaria flava	G.Y. Sun & H.Y. Li			Fungal Science, Taipei	24		244	2009		Not online but see https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A11031925
+542231	Catenolaria lingbaosum	G.Y. Sun & H.Y. Li			Fungal Science, Taipei	24		244	2009		Not online but see https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A11031925
+542232	Catenolaria pulveris	G.Y. Sun & H.Y. Li			Fungal Science, Taipei	24		244	2009		Not online but see https://tpl.ncl.edu.tw/NclService/JournalContentDetail?SysId=A11031925
+548421	Pythium sterile	Belbahri & Lefort			Mycoscience	255	2	210	2006	see comment	Actually Belbahri L, Calmin G, Sánchez E, Oszako T, Lefort F, 2006. Pythium sterilum sp. nov. isolated from Poland, Spain and France, its morphology and molecular phylogenetic position. FEMS Microbiology Letters 255, 209-214. 10.1111/j.1574-6968.2006.00059.x
+563212	Hyphodontia vietnamensis	Yurchenko & Sheng H. Wu			Fungal Diversity	55		539	2014	see comment	Three new species of Hyphodontia with peg-like hyphal aggregations 10.1007/s11557-013-0935-1
+563762	Metschnikowia cibodasensis	Sjamsur., Oetari, C. Nakash., A. Kanti, Saraswati, Widyast. & K. Ando			Mycoscience	54		909	2013	see comment	"Actually New Species of the Genus Metschnikowia Isolated from Flowers in Indonesia, Metschnikowia cibodasensis sp. nov. J. Microbiol. Biotechnol.2013 ;	23(7): 905~912 https://www.ncbi.nlm.nih.gov/pubmed/23711514"
+564320	Fibrodontia alba	Yurchenko & Sheng H. Wu			Fungal Diversity	55		339	2014	see comment	Three new species of Hyphodontia with peg-like hyphal aggregations 10.1007/s11557-013-0935-1
+564365	Acaulospora verna	Błaszk.			Nova Hedwigia	1		94	2012		Wrong journal, Glomeromycota (Kraków), correct in current IF
+564374	Geastrum subgen. Trichaster	(Czern.) Dissing & M. Lange			Bull. Jard. bot. État Brux.	32		367	1962	10.2307/3667249	Wrong year, correct in IF
+566988	Filobasidiella amylolenta	Findley & Heitman			PLoS ONE	8	2	e1002528, 16	2012	10.1371/journal.pgen.1002528	Wrong journal, should be PLoS Genetics
+800488	Ophiocordyceps sessilis	Y. Kaitsu, S. Uchiyama & N. Kinjo			Mycoscience	12	4	759	2013	see comment	Actually Ophiocordyceps sessilis sp. nov., a new species of Ophiocordyceps on Camponotus ants in Japan. Mycological Progress November 2013, Volume 12, Issue 4, pp 755–761 https://doi.org/10.1007/s11557-013-0911-9
+800621	Acaulospora herrerae	Furrazola, B.T. Goto, G.A. Silva, Sieverd. & Oehl			Mycol. Progr.	97		405	2012	10.1127/0029-5035/2013/0128	Wrong journal, shoulkd be Nova Hedwigia
+801873	Penicillium allii-sativi	Frisvad, Houbraken & Samson			Stud. Mycol.	29		89	2013	see comment	Persoonia. 2012 Dec;29:78-100. doi: 10.3767/003158512X660571. Epub 2012 Dec 4. New penicillin-producing Penicillium species and an overview of section Chrysogena.
+801874	Penicillium desertorum	Frisvad, Houbraken & Samson			Stud. Mycol.	29		90	2013	see comment	Persoonia. 2012 Dec;29:78-100. doi: 10.3767/003158512X660571. Epub 2012 Dec 4. New penicillin-producing Penicillium species and an overview of section Chrysogena.
+801875	Penicillium halotolerans	Frisvad, Houbraken & Samson			Stud. Mycol.	29		92	2013	see comment	Persoonia. 2012 Dec;29:78-100. doi: 10.3767/003158512X660571. Epub 2012 Dec 4. New penicillin-producing Penicillium species and an overview of section Chrysogena.
+801876	Penicillium goetzii	J.D. Rogers, Frisvad, Houbraken & Samson			Stud. Mycol.	29		92	2013	see comment	Persoonia. 2012 Dec;29:78-100. doi: 10.3767/003158512X660571. Epub 2012 Dec 4. New penicillin-producing Penicillium species and an overview of section Chrysogena.
+801877	Penicillium tardochrysogenum	Frisvad, Houbraken & Samson			Stud. Mycol.	29		93	2013	see comment	Persoonia. 2012 Dec;29:78-100. doi: 10.3767/003158512X660571. Epub 2012 Dec 4. New penicillin-producing Penicillium species and an overview of section Chrysogena.
+801878	Penicillium vanluykii	Frisvad, Houbraken & Samson			Stud. Mycol.	29		97	2013	see comment	Persoonia. 2012 Dec;29:78-100. doi: 10.3767/003158512X660571. Epub 2012 Dec 4. New penicillin-producing Penicillium species and an overview of section Chrysogena.
+807496	Ocellularia rugosothallina	Lücking, Lumbsch & Parnmen			PLoS ONE	189	1	221	2014	see comment	Actually Phytotaxa 10.11646/phytotaxa.189.1.15
+809174	Inocybe flavobrunnescens	Esteve-Rav., G. Moreno & Bizio			Mycol. Progr.	127	3-4	191	2011	10.1007/s11557-015-1036-0	Wrong volume
+809373	Abrothallus brattii	(S.Y. Kondr.) Suija & Pérez-Ortega			IMA Fungus	195	3	217	2015	10.11646/phytotaxa.195.3.1	Wrong journal, should be Phytotaxa, correct in IF
+810720	Abrothallus kamchatica	(Zhurb. & Stepanch.) Pérez-Ortega & Suija			IMA Fungus	195	3	217	2015	10.11646/phytotaxa.195.3.1	Wrong journal, should be Phytotaxa, correct in IF
+810827	Pestalotiopsis iranensis	Ayoubi & Soleimani			Mycoscience	72		334	2016	see comment	This name has been published under different genus in Strawberry Fruit Rot Caused by Neopestalotiopsis iranensis sp. nov., and N. mesopotamica. Curr Microbiol. 2016 Mar;72(3):329-36. doi: 10.1007/s00284-015-0955-y. Epub 2015 Dec 10.
+810846	Pestalotiopsis avicennae	Ayoubi & Soleimani			Mycoscience	72		335	2016	see comment	This name has been published under different genus in Strawberry Fruit Rot Caused by Neopestalotiopsis iranensis sp. nov., and N. mesopotamica. Curr Microbiol. 2016 Mar;72(3):329-36. doi: 10.1007/s00284-015-0955-y. Epub 2015 Dec 10.
+811220	Diaporthe absenteum	Y.H. Gao & L. Cai			Mycol. Progr.	14		114	2016	see comment	Actually in Systematics and Biodiversity Volume 14, 2016 - Issue 1 Unravelling Diaporthe species associated with Camellia Yahui Gao, Fang Liu & Lei Cai Pages 102-117 http://dx.doi.org/10.1080/14772000.2015.1101027   (orthographic variant, see http://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=542532&Fields=All )
+811418	Anacacumisporium	Y.R. Ma & X.G. Zhang			Mycol. Progr.	14		8	2016	see comment	Cryptogamie, Mycologie 37(1):45-59. 2016  https://doi.org/10.7872/crym/v37.iss1.2016.45 Anacacumisporium, a New Genus Based on Morphology and Molecular Analyses from Hainan, China
+811419	Anacacumisporium appendiculatum	Y.R. Ma & X.G. Zhang			Mycol. Progr.	14		8	2016	see comment	Cryptogamie, Mycologie 37(1):45-59. 2016  https://doi.org/10.7872/crym/v37.iss1.2016.45 Anacacumisporium, a New Genus Based on Morphology and Molecular Analyses from Hainan, China
+811446	Yamadazyma dushanensis	F.L. Hui, Yun Wang, Y.C. Ren & Ying Li			PLoS ONE	71	2	268-273	2015	see comment	Actually Curr Microbiol. 2015 Aug;71(2):268-73. doi: 10.1007/s00284-015-0847-1. Epub 2015 Jun 3. Molecular Phylogeny and Taxonomy of Yamadazyma dushanensis f.a., sp. nov., a Cellobiose-Fermenting Yeast Species from China.
+28671	Decorospora	Inderb., Kohlm. & Volkm.-Kohlm.			Mycol. Progr.	1	4	657	2002	10.1080/15572536.2003.11833193	Not Mycol. Res but Mycologia
+626639	Ophiocordyceps acridiorum var. acridiorum	(H.C. Evans & P.A. Shah) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814530	Cephalotrichum brevistipitatum	Sandoval-Denis, Guarro & Gené			Persoonia	83		202	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814531	Cephalotrichum hinnuleum	Sandoval-Denis, Guarro & Gené			Persoonia	83		209	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814571	Acaulium acremonium	(Delacr.) Sandoval-Denis, Guarro & Gené			Persoonia	83		199	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814573	Acaulium caviariforme	(Malloch & Hubart) Sandoval-Denis, Guarro & Gené			Persoonia	83		200	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814577	Cephalotrichum asperulum	(J.E. Wright & S. Marchand) Sandoval-Denis, Guarro & Gené			Persoonia	83		201	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814578	Gamsia columbina	(Demelius) Sandoval-Denis, Guarro & Gené			Persoonia	83		217	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814579	Wardomyces giganteus	(Malloch) Sandoval-Denis, Guarro & Gené			Persoonia	83		219	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814714	Drechmeria balanoides	(Drechsler) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814715	Drechmeria campanulata	(Glockling) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814716	Drechmeria glocklingiae	(Zare & W. Gams) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814718	Drechmeria obovata	(Drechsler) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814719	Drechmeria rhabdospora	(Zare & W. Gams) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814720	Drechmeria sinensis	(K.Q. Zhang, L. Cao & Z.Q. Liang) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814721	Drechmeria sphaerospora	(Goodey) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814722	Drechmeria zeospora	(Drechsler) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814723	Harposporium fuscum	(P. Chaverri & K.T. Hodge) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814724	Harposporium harposporiferum	(Samuels) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814725	Harposporium peltatum	(Wakef.) Spatafora & Kepler			IMA Fungus	6	2	358	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814726	Harposporium poronioides	(Seaver) Spatafora & Kepler			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, fixed here, still wrong in IF
+814730	Ophiocordyceps annulata	(Kobayasi & Shimizu) Spatafora, Kepler & Quandt			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814731	Ophiocordyceps aphidis	(Petch) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814732	Ophiocordyceps aranearum	(Petch) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814733	Ophiocordyceps australiensis	(Mains) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814734	Ophiocordyceps buquetii	(Mont. & C.P. Robin) Spatafora, Kepler & Quandt			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814736	Ophiocordyceps cicadellidicola	(Kobayasi & Shimizu) Spatafora, Kepler & Quandt			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814737	Ophiocordyceps citrina	(Kobayasi & Shimizu) Spatafora, Kepler & Quandt			IMA Fungus	6	2	359	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814738	Ophiocordyceps cleoni	(Wize) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	360	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814739	Ophiocordyceps furcata	(Aung, J.C. Kang, Z.Q. Liang, Soytong & K.D. Hyde) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	360	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814741	Ophiocordyceps ichneumonophila	(Van Vooren & Audibert) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	360	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814742	Ophiocordyceps intricata	(Petch) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	360	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814743	Ophiocordyceps longispora	(Samson & H.C. Evans) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814744	Ophiocordyceps paramyrmicarum	B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814745	Ophiocordyceps novae-zelandiae	(Dingley) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814746	Ophiocordyceps pseudogibellulae	(Samson, Reenen & H.C. Evans) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814747	Ophiocordyceps siamensis	(Hywel-Jones) Mongkolsamrit & Luangsa-ard			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814748	Ophiocordyceps spiculata	(B. Huang, M.Z. Fan & Z.Z. Li) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814749	Ophiocordyceps tetanopsis	(K.T. Hodge, Humber & Wozniak) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814750	Ophiocordyceps verrucosa	(Mains) B. Shrestha, G.H. Sung & Spatafora			IMA Fungus	6	2	361	2015	10.5598/imafungus.2015.06.02.07	Wrong journal, should be IMA Fungus, fixed here, correct in IF
+814969	Cephalotrichum columnare	(H.J. Swart) S.P. Abbott			Persoonia	83		206	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814970	Cephalotrichum cylindricum	(Clem. & Shear) S.P. Abbott			Persoonia	83		207	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+814971	Cephalotrichum dendrocephalum	(Udagawa, Y. Horie & Abdullah) S.P. Abbott			Persoonia	83		207	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+816391	Saprolegniales	Prantl			Acta Bot. Brasilica			90, 238	1874		NOT Acta Bot. Brasilica
+816394	Mucorales	Dumort.			Acta Bot. Brasilica			73	1829		NOT Acta Bot. Brasilica
+816395	Reessiaceae	Gobi			Acta Bot. Brasilica			38	1892		NOT Acta Bot. Brasilica
+816396	Thamnidiaceae	Gobi			Acta Bot. Brasilica			48	1883		NOT Acta Bot. Brasilica
+816408	Myrioblepharidales	Jacz. & P.A. Jacz.			Acta Bot. Brasilica	3		7	1931		NOT Acta Bot. Brasilica
+816409	Myrioblepharidaceae	Jacz. & P.A. Jacz.			Acta Bot. Brasilica	3		59	1931		NOT Acta Bot. Brasilica
+816411	Monoblepharidaceae	Warm.			Acta Bot. Brasilica	2		57	1884		NOT Acta Bot. Brasilica
+817599	Cephalotrichum gorgonifer	(Bainier) Sand.-Den., Gené & Guarro			Persoonia	83		207	2016	10.1016/j.simyco.2016.07.002	Wrong journal, shouold be Stud. Myc.
+819007	Pseudopithomyces atro-olivaceus	(Cooke & Harkn.) G. Guevara, K.C. Cunha & Gené			Persoonia	37		486	2016	10.3767/003158516X694499	Wrong page, 486 is fungal sheet no.
+819013	Pseudopithomyces karoo	(Marasas & I.H. Schum.) G. Guevara, K.C. Cunha & Gené			Persoonia	37		486	2016	10.3767/003158516X694499	Wrong page, 486 is fungal sheet no.
+820566	Marasmius indojasminodorus	A.K. Dutta, K. Acharya & K. Das			Fungal Diversity			10.1007/s13225-w, [193]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+820587	Lactifluus midnapurensis	Paloi & K. Acharya			Fungal Diversity			10.1007/s13225-w, [221]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+820689	Marasmiellus bicoloripes	K.P.D. Latha, K.N.A Raj & Manim.			Fungal Diversity			10.1007/s13225-w, [198]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+820694	Lactarius olivaceopallidus	Uniyal			Fungal Diversity			10.1007/s13225-w, [216]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+820829	Amanita flavoalba	Mehmood & R.P. Bhatt			Fungal Diversity			10.1007/s13225-w, [182]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+820834	Russula uttarakhandia	A. Ghosh & K. Das			Fungal Diversity			10.1007/s13225-w, [229]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+821930	Entorrhiza fuirenae	R.G. Shivas, Vánky, Piątek & K. Riess			IMA Fungus	19	1	23	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821931	Juncorrhiza	K. Riess & Piątek			IMA Fungus	19	1	23	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821932	Juncorrhiza aschersoniana	(Magnus) K. Riess & Piątek			IMA Fungus	19	1	23	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821933	Juncorrhiza casparyana	(Magnus) K. Riess, M. Lutz & Piątek			IMA Fungus	19	1	23	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821934	Juncorrhiza casparyanella	(Vánky) K. Riess & Piątek			IMA Fungus	19	1	25	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821935	Juncorrhiza maritima	Piątek & K. Riess			IMA Fungus	19	1	25	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821936	Juncorrhiza oxycarpi	Piątek & K. Riess			IMA Fungus	19	1	26	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+821937	Juncorrhiza tenuis	(Denchev & H.D. Shin) K. Riess & Piątek			IMA Fungus	19	1	27	2019	10.1007/s13127-018-0384-4	Wrong journal, should be Organisms Diversity and Evolution, correct in IF
+823302	Pseudoclitocybaceae	Vizzini, Consiglio, P.-A. Moreau & P. Alvarado			IMA Fungus	90		112	2018	10.1007/s13225-018-0400-1	Wrong journal, should be Fungal Diversity
+823981	Aleurodiscus patagonicus	Nogal, Telleria, M. Dueñas & M.P. Martín			Fungal Diversity			10.1007/s13225-w, [234]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+824250	Baorangia major	Raspé & Vadthanarat			Fungal Diversity			10.1007/s13225-w, [202]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+824251	Baorangia rufomaculata	(Both) Raspé & Vadthanarat			Fungal Diversity			10.1007/s13225-w, [204]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+824252	Lanmaoa pallidorosea	(Both) Raspé & Vadthanarat			Fungal Diversity			10.1007/s13225-w, [207]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+824343	Russula choptae	A. Ghosh & K. Das			Fungal Diversity			10.1007/s13225-w, [223]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+824527	Clavulina thindii	U. Singh			Fungal Diversity			10.1007/s13225-w, [209]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+824531	Amanita subtropicana	Mehmood & R.P. Bhat			Fungal Diversity			10.1007/s13225-w, [187]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+825275	Trechispora echinospora	Telleria, M. Dueñas, I. Melo & M.P. Martín			Fungal Diversity			10.1007/s13225-w, [239]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+825276	Phanerochaete australosanguinea	Telleria, M. Dueñas & M.P. Martín			Fungal Diversity			10.1007/s13225-w, [215]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+825361	Dacrymyces invisibilis	M. Dueñas, Telleria & M.P. Martín			Fungal Diversity			10.1007/s13225-w, [244]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+826936	Colletotrichum javanense	D.D. de Silva, Crous & P.W.J. Taylor			IMA Fungus	10	1	20	2019	10.1186/s43008-019-0001-y	Wrong number, should be 8
+826973	Hygrocybe lucida	K. Acharya & A.K. Dutta			Fungal Diversity			10.1007/s13225-w, [189]	2019	10.1007/s13225-019-00421-w	Wrong DOI in pages
+827691	Colletotrichum makassarense	D.D. de Silva, Crous & P.W.J. Taylor			IMA Fungus	10	1	23	2019	10.1186/s43008-019-0001-y	Wrong number, should be 8
+827692	Colletotrichum tainanense	D.D. de Silva, Crous & P.W.J. Taylor			IMA Fungus	10	1	23	2019	10.1186/s43008-019-0001-y	Wrong number, should be 8
+828018	Xylodon patagonicus	J. Fernández-López, Telleria, M. Dueñas & M.P. Martín			IMA Fungus	10	no. 2	13	2019	10.1186/s43008-019-0010-x	Wrong number, should be 9
+828019	Xylodon laurentianus	J. Fernández-López, Telleria, M. Dueñas & M.P. Martín			IMA Fungus	10	no. 2	11	2019	10.1186/s43008-019-0010-x	Wrong number, should be 9
+828020	Xylodon novozelandicus	J. Fernández-López, Telleria, M. Dueñas & M.P. Martín			IMA Fungus	10	no. 2	14	2019	10.1186/s43008-019-0010-x	Wrong number, should be 9
+831209	Neonothopanus cystidiosus	J.J. Hu, Bo Zhang & Yu Li			Mycol. Progr.	512	1	61	2021	10.11646/phytotaxa.512.1.4	Wrong journal, should be Phytotaxa
+831967	Asproinocybe lyophylloides	K. Syme & T. Lebel			Persoonia	64	1	80	2019	10.5962/p.337581	Wrong journal and volume, should be Muelleria
+832535	Aspergillus sect. Cavernicolarum	A.J. Chen, Frisvad & Samson			Herzogia	84		112	2016		Actually Stud. Mycol.
+832792	Jorgewrightia major	(G.Y. Zheng & Z.S. Bi) C.R.S. Lira & Gibertoni			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832793	Jorgewrightia rimosa	(Y. Yuan, X.H. Ji & Y.C. Dai) C.R.S. Lira & Gibertoni			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832794	Jorgewrightia yunnanensis	(Y. Yuan, X.H. Ji & Y.C. Dai) C.R.S. Lira & Gibertoni			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832795	Mariorajchenbergia	Gibertoni & C.R.S. Lira			Mycosphere	12	1	1169	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832796	Mariorajchenbergia hubeiensis	(Hai J. Li & B.K. Cui) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1169	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832797	Megasporia amazonica	(Gomes-Silva, Ryvarden & Gibertoni) C.R.S. Lira & Gibertoni			Mycosphere	12	1	1172	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832799	Mariorajchenbergia pseudocavernulosa	(B.K. Cui & Hai J. Li) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1169	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832800	Megasporia anoectopora	(Berk. & M.A. Curtis) C.R.S. Lira & Gibertoni			Mycosphere	12	1	1172	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832801	Mariorajchenbergia rhododendri	(Y.C. Dai & Y.L. Wei) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1169	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832802	Megasporia cavernulosa	(Berk.) C.R.S. Lira & T.B. Gibertoni			Mycosphere	12	1	1173	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832803	Mariorajchenbergia subcavernulosa	(Y.C. Dai & Sheng H. Wu) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1170	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832804	Jorgewrightia	Gibertoni & C.R.S. Lira			Mycosphere	12	1	1167	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832805	Megasporia cylindrospora	(Ryvarden) C.R.S. Lira & Gibertoni			Mycosphere	12	1	1173	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832806	Jorgewrightia cystidiolophora	(B.K. Cui & Y.C. Dai) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1167	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832807	Jorgewrightia guangdongensis	(B.K. Cui & Hai J. Li) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832808	Jorgewrightia hengduanensis	(B.K. Cui & Hai J. Li) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832809	Jorgewrightia tropica	(Y. Yuan, X.H. Ji & Y.C. Dai) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+832810	Jorgewrightia violacea	(B.K. Cui & P. Du) Gibertoni & C.R.S. Lira			Mycosphere	12	1	1168	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+833036	Spongiporus floriformis	(Quél.) B.K. Cui, L.L. Shen & Y.C. Dai			Stud. Mycol.	42		122	2018	see comment	NOT Stud. Mycol. https://doi.org/10.3767/persoonia.2019.42.05
+835041	Megasporoporia neosetulosa	C.R.S. Lira & Gibertoni			Mycosphere	12	1	1174	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+835548	Marasmius tricystidiatus	N.A. Ramírez & N. Niveiro			Mycol. Progr.	494	1	65	2021	10.11646/phytotaxa.494.1.3	Wrong journal, should be Phytotaxa
+836229	Aciculosporium oplismeni	E. Tanaka			IMA Fungus	52	3	173	2021	10.47371/mycosci.2021.01.002	Wrong journal, should be Mycoscience 
+836956	Squamulea humboldtiana	Bungartz & Søchting			Plant and Fungal Systematics	65	2	656	2020	10.35535/pfsyst-2020-0030	Wrong page: 566
+838411	Hyphoderma puerense	C.L. Zhao & Q.X. Guan			Mycol. Progr.	83		151	2021	10.3897/mycokeys.83.69909	Wrong journal, should be Mycokeys
+838412	Hyphoderma tenuissimum	C.L. Zhao & Q.X. Guan			Mycol. Progr.	83		153	2021	10.3897/mycokeys.83.69909	Wrong journal, should be Mycokeys
+838471	Megalocystidium olens	Spirin & Volobuev			Mycol. Progr.	154	2	240	2021	10.5091/plecevo.2021.1857	Wrong journal, should be Plant Ecology and Evolution,
+838476	Megalocystidium diffissum	(Sacc.) K.H. Larss. & Spirin			Mycol. Progr.	154	2	236	2021	10.5091/plecevo.2021.1857	Wrong journal, should be Plant Ecology and Evolution,
+839249	Cordyceps changchunensis	J.J. Hu, Bo Zhang & Y. Li			IMA Fungus	83		166	2021	10.3897/mycokeys.83.72325	Wrong journal, should be MycoKeys
+839250	Cordyceps changbaiensis	J.J. Hu, Bo Zhang & Y. Li			IMA Fungus	83		169	2021	10.3897/mycokeys.83.72325	Wrong journal, should be MycoKeys
+839251	Cordyceps jinyuetanensis	J.J. Hu, Bo Zhang & Y. Li			IMA Fungus	83		171	2021	10.3897/mycokeys.83.72325	Wrong journal, should be MycoKeys
+840441	Boletinellus rhytidophyllus	(M. Zang) Li R. Liu, Yan C. Li & Zhu L. Yang			Mycol. Progr.	530	2	182	2022	10.11646/phytotaxa.530.2.4	Wrong journal, should be Phytotaxa
+842097	Jorgewrightia bambusae	(Y.C. Dai, Yuan Yuan & Ya.R. Wang) Gibertoni			Mycosphere	12	1	1167	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+842098	Jorgewrightia fusiformis	(Y.C. Dai, Yuan Yuan & Ya.R. Wang) Gibertoni			Mycosphere	12	1	1167	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+842099	Megasporia mexicana	(Ryvarden) Gibertoni			Mycosphere	12	1	1174	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
+842172	Mariorajchenbergia australiae	(Y.C. Dai, Yuan Yuan & Ya.R. Wang) Gibertoni			Mycosphere	12	1	1169	2021	10.5943/mycosphere/12/1/16	Page numbers incorrect
