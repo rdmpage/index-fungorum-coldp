@@ -1,9 +1,9 @@
 doi: 10.5281/zenodo.7211134
 title: Index Fungorum with Literature
 alias: Index Fungorum
-description: "The Index Fungorum (maintained by the Index Fungorum Partnership) is the global nomenclatural database for fungi (Fungi, chromistan fungi, protozoan fungi) and contains over 380,000 names at the rank of species and below.\nThis dataset builds on Index Fungorum by adding persistent identifiers such as DOIs to the bibliographic references, where such identifiers are known. \nThe original Index Fungorum database is CC-BY, this mapping between names, publications and DOIs is CC-0."
-released: 2023-05-26
-version: 2023-05-26
+description: "The Index Fungorum (maintained by the Index Fungorum Partnership) is the global nomenclatural database for fungi (Fungi, chromistan fungi, protozoan fungi) and contains over 380,000 names at the rank of species and below.\nThis dataset builds on Index Fungorum by adding persistent identifiers such as DOIs to the bibliographic references, where such identifiers are known. \nThe original Index Fungorum database is CC-BY, this mapping between names, publications and DOIs is CC-0.\n\nRange               Database         Notes\n   < 100001                             used for all entries in the Dictionary of the Fungi  but 'adopted' for supraspecific names in Index Fungorum\n   100001 – 489999     Index Fungorum\n      490000 – 499999     MycoBank         used for missing names\n   500000 – 520000     MycoBank         used for registration\n   520001 – 549999     Index Fungorum   used for unregistered names and missing names\n   550000 – 559999     Index Fungorum   used for registration\n   560000 – 566348     MycoBank         used for registration and missing names\n   566349 – 569999     Index Fungorum   used for missing names\n   570000 – 579999     Fungal Names     used for registration\n   580000 – 589999     Index Fungorum   used for missing names\n   590000 – 599999     Index Fungorum   used for manual addition of typifications\n   600000 – 699999     Index Fungorum   used for missing names\n   700000 – 799999     Index Fungorum   used for infrageneric names\n   800000 – 899999     MycoBank         used for registration and missing names\n   900000 – 999999     Index Fungorum   used for registration\n  10000000 – 10999999  MycoBank         used for registration of typifications\n"
+released: 2024-09-19
+version: 2024-09-19
 contact:
   - given: Roderic
     family: Page
@@ -17,7 +17,7 @@ contact:
 geographicScope: Global
 taxonomicScope: Fungi
 confidence:
-completeness: 0
+completeness: 18
 license: CC-0
 source:
 

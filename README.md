@@ -20,6 +20,30 @@ LEFT JOIN names ON names.id = fungalnames.`Registration identifier`
 WHERE id IS NULL ORDER BY CAST(`Registration identifier` AS INTEGER);
 ```
 
+### Coverage
+
+```
+SELECT COUNT(Id) FROM names;
+559911
+```
+
+```
+SELECT COUNT(Id) FROM names_with_references;
+100904
+```
+
+coverage = (100 * 100904) / 559911 = 18.0
+
+### Versioning
+
+Between releases we can use [csvdiff](https://github.com/aswinkarthik/csvdiff) to compare TSV files and publish those diff files so that users can see what has changed.
+
+For example,
+
+```
+csvdiff references-old.tsv references.tsv -s "\t" > references.diff
+```
+
 
 ## Identifiers
 
