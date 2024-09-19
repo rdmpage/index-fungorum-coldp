@@ -1,5 +1,6 @@
 /code export-ignore
 /data export-ignore
+/errors export-ignore
 /junk export-ignore
 
 *.db export-ignore
