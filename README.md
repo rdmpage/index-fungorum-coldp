@@ -6,6 +6,44 @@ A version of [Index Fungorum](http://www.indexfungorum.org) with persistent iden
 
 Errors found in the original Index Fungorum are saved in the `errors` directory.
 
+## Fungal Names
+
+Note that in addition to Index Fungorum and MycoBank there his also [Fungal Names](https://nmdc.cn/fungalnames/) which provides downloads of names and identifiers as tab-delimited text, see https://nmdc.cn/fungalnames/released.
+
+These files seem a bit broken as records with spaces in the classification, or ampersands in authorship can be split across multiple lines :(. I’ve imported Fungal_names_all_v2023_09_11 into SQLite.
+
+To find names we’ve missed (although some identifiers may no longer resolve as they’ve been replaced):
+
+```
+SELECT `Registration identifier` FROM fungalnames
+LEFT JOIN names ON names.id = fungalnames.`Registration identifier`
+WHERE id IS NULL ORDER BY CAST(`Registration identifier` AS INTEGER);
+```
+
+
+## Identifiers
+
+Index Fungorum integer numbers may have different sources depending on what range they fall into, see [Identifier Allocations](https://www.indexfungorum.org/names/IndexFungorumIdentifierAllocation.htm).
+
+| Range | Database | Notes |
+|--|--|--|
+|<100001 | | used for all entries in the Dictionary of the Fungi  but ‘adopted’ for supraspecific names in Index Fungorum |
+|100001 – 489999 | Index Fungorum | |
+|490000 – 499999 | MycoBank |used for missing names
+|500000 – 520000 | MycoBank |used for registration
+|520001 – 549999 | Index Fungorum |used for unregistered names and missing names|
+|550000 – 559999 | Index Fungorum |used for registration|
+|560000 – 566348 | MycoBank |used for registration and missing names|
+|566349 – 569999 | Index Fungorum |used for missing names|
+|570000 – 579999 | Fungal Names |used for registration|
+|580000 – 589999 | Index Fungorum |used for missing names|
+|590000 – 599999 | Index Fungorum |used for manual addition of typifications|
+|600000 – 699999 | Index Fungorum |used for missing names|
+|700000 – 799999 | Index Fungorum |used for infrageneric names|
+|800000 – 899999 | MycoBank |used for registration and missing names|
+|900000 – 999999 | Index Fungorum |used for registration|
+|10000000 – 10999999 | MycoBank |used for registration of typifications|
+
 ### Exports and releases
 
 The data to add to ChecklistBank are held in the views `names_with_references` and `references` in the SQLIte database. These views should be exported as `names.tsv` and `references.tsv` respectively (in tab-delimited format), and together with the `metadata.yml` file comprise a release. Releases are versioned by date, and automatically get assigned a DOI via Zenodo. 

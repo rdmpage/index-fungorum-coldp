@@ -80,70 +80,20 @@ function post($url, $data = '', $content_type = '')
 //----------------------------------------------------------------------------------------
 
 
-$sql = 'SELECT * FROM names WHERE issn="0093-4666" and year > 2008';
+$sql = 'SELECT * FROM names WHERE issn="2309-608X"';
+$sql .= ' AND year=2023';
 
-$sql = 'SELECT * FROM names WHERE id=817479';
-
-//$sql = 'SELECT * FROM names WHERE issn="2346-9641" and volume=51';
-
-$sql = 'SELECT * FROM names WHERE issn="0236-6495"';
-$sql = 'SELECT * FROM names WHERE issn="0170-110X"';
-$sql = 'SELECT * FROM names WHERE issn="2077-7019"';
-$sql = 'SELECT * FROM names WHERE issn="0093-4666"';
-$sql = 'SELECT * FROM names WHERE issn="1314-4049"';
-$sql = 'SELECT * FROM names WHERE issn="2544-7459"';
-//$sql = 'SELECT * FROM names WHERE issn="2657-5000"';
-
-$sql = 'SELECT * FROM names WHERE issn="0511-9618"';
-$sql = 'SELECT * FROM names WHERE issn="1672-6472"';
-
-//$sql = "SELECT * FROM names WHERE issn IN ('0181-1584','1314-4049','2309-608X','0003-6072','1179-3155','0166-0616') AND year='2021'";
-
-$sql = 'SELECT * FROM names WHERE issn="1436-2317"';
-$sql = 'SELECT * FROM names WHERE issn="1617-416X"';
-$sql = 'SELECT * FROM names WHERE issn="2210-6340"';
-
-$sql = 'SELECT * FROM names WHERE issn="0453-3402"';
-
-$sql = 'SELECT * FROM names WHERE issn="1560-3695"';
-
-$sql = 'SELECT * FROM names WHERE issn="0031-5850"';
-
-$sql = 'SELECT * FROM names WHERE issn="0093-4666"';
-$sql = 'SELECT * FROM names WHERE issn="2077-7019"';
-
-$sql = 'SELECT * FROM names WHERE issn="1424-2818"';
-
-$sql = 'SELECT * FROM names WHERE issn="1312-3300"';
-
-$sql = 'SELECT * FROM names WHERE issn="0007-1536"';
-
-$sql = 'SELECT * FROM names WHERE issn="1179-3155"'; // Phytotaxa
-$sql = 'SELECT * FROM names WHERE issn="0024-2829"'; // Lichenologist
-
-$sql = 'SELECT * FROM names WHERE issn="1878-6146"'; // Fungal Biology
-
-$sql = 'SELECT * FROM names WHERE issn="0031-5850"'; // Persoonia
-$sql = 'SELECT * FROM names WHERE issn="0166-0616"'; // Stud. Mycol.
-
-
-//$sql = 'SELECT * FROM names WHERE id=328838';
-
-$sql .= ' AND year=2022';
+//$sql .= ' AND id=571262';
 
 $sql .= ' AND volume IS NOT NULL';
+$sql .= ' AND number IS NOT NULL';
 $sql .= ' AND pages IS NOT NULL ';
 $sql .= ' AND doi is NULL';
-//$sql .= ' AND wikidata is NULL';
-//$sql .= ' AND jstor is NULL';
-//$sql .= ' AND url is NULL';
 
 $debug = true;
 $debug = false;
 
-$include_authors = true; // more accuracy
 $include_authors = false;
-
 
 $query_result = do_query($sql);
 
@@ -160,34 +110,26 @@ foreach ($query_result as $data)
 	if (isset($data->issn))
 	{
 		$doc->ISSN[] = $data->issn;
-		
-		// Phytotaxa
-		if ($data->issn == '1179-3155')
-		{
-			$doc->ISSN[0] = '1179-3163';
-		}
-
-		if ($data->issn == '1436-2317')
-		{
-			$doc->ISSN[0] = '2195-9889';
-		}
-
-		if ($data->issn == '2210-6340')
-		{
-			$doc->ISSN[0] = '2210-6359';
-		}
-		
-		
-		if ($data->issn == '1560-3695')
-		{
-			$doc->ISSN[0] = '1013-2732';
-		}
-		
 	}
 	
 	$doc->volume = $data->volume;
 	$doc->page = $data->pages;
-		
+	
+	if (isset($data->issn) && in_array($data->issn, array('2309-608X','1424-2818')))
+	{
+		if (isset($data->number))
+		{
+			if (preg_match('/(?<issue>\d+),\s*no.\s*(?<spage>\d+)/', $data->number, $m))
+			{
+				$doc->issue = $m['issue'];
+				$doc->page = $m['spage'];
+				
+				//print_r($m);
+			}
+		}
+	
+	}
+	
 	if (isset($data->year))
 	{
 		$doc->issued = new stdclass;
@@ -247,11 +189,14 @@ foreach ($query_result as $data)
 		}
 	}
 	
-	$url = 'http://localhost/microcitation-lite/api/micro.php';
+	//print_r($doc);
+	
+	$url = 'http://localhost/citation-matching/api/crossref_openurl.php';
+	
 	
 	$json = post($url, json_encode($doc));
 	
-	//echo $json;
+	//echo $json . "\n";
 	
 	if ($debug)
 	{
@@ -260,22 +205,11 @@ foreach ($query_result as $data)
 	
 	$doc = json_decode($json);
 	
-	if ($doc && isset($doc->DOI) && count($doc->DOI) == 1)
+	if ($doc && isset($doc->DOI))
 	{
-		echo 'UPDATE names SET doi = "' . $doc->DOI[0] . '" WHERE id="' . $data->id . '";' . "\n";
+		echo 'UPDATE names SET doi = "' . $doc->DOI . '" WHERE id="' . $data->id . '";' . "\n";
 	}
-	
-	if ($doc && isset($doc->WIKIDATA) && count($doc->WIKIDATA) == 1)
-	{
-		echo 'UPDATE names SET wikidata = "' . $doc->WIKIDATA[0] . '" WHERE id="' . $data->id . '";' . "\n";
-	}
-
-	
-	if ($doc && isset($doc->URL) && count($doc->URL) == 1)
-	{
-//		echo 'UPDATE names SET url = "' . $doc->URL[0] . '" WHERE id="' . $data->id . '";' . "\n";
-	}
-	
+		
 
 	
 }
