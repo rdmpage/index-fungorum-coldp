@@ -126,10 +126,12 @@ $sql = 'SELECT * FROM names WHERE issn="1878-6146"'; // Fungal Biology
 $sql = 'SELECT * FROM names WHERE issn="0031-5850"'; // Persoonia
 $sql = 'SELECT * FROM names WHERE issn="0166-0616"'; // Stud. Mycol.
 
+$sql = 'SELECT * FROM names WHERE issn="0815-3191"'; // Australas. Pl. Path.
 
-//$sql = 'SELECT * FROM names WHERE id=328838';
 
-$sql .= ' AND year=2022';
+//$sql = 'SELECT * FROM names WHERE id=510859';
+
+//$sql .= ' AND year=2007';
 
 $sql .= ' AND volume IS NOT NULL';
 $sql .= ' AND pages IS NOT NULL ';
@@ -142,8 +144,7 @@ $debug = true;
 $debug = false;
 
 $include_authors = true; // more accuracy
-$include_authors = false;
-
+//$include_authors = false;
 
 $query_result = do_query($sql);
 
